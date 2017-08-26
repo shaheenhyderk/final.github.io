@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/shaheenhyderk/final.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaheenhyderk/final.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ ## Fidget Spinner
+ 
+ I think about a final project. One of the problem I faced was that as Iam just 10th I don't know about drawing electric circuit. Then think about 'fidget spinner' which was having a huge market. 
+ 
+ A fidget spinner is a toy that consists of a ball-bearing in the center of a multi-lobed flat structure made from metal or plastic designed to spin along its axis with little effort.The toy has been advertised as helping people who have trouble with focusing or fidgeting by relieving nervous energy or psychological stress. There are claims that a fidget spinner can be used to help calm people down who suffer from anxiety and other neurological disorders like ADHD and Autism.[For more information click here.](https://en.wikipedia.org/wiki/Fidget_spinner)
+ 
+ <img src="https://shaheenhyderk.github.io/sp.jpeg">
+ 
+ #### The design in rhino
+ 
+ <img src="https://shaheenhyderk.github.io/r.jpg" width="600" height="400">
+ 
+ #### Top view
+ 
+ <img src="https://shaheenhyderk.github.io/rh.jpg" width="600" height="400">
+ 
+ #### In cura
+ 
+ <img src="https://shaheenhyderk.github.io/c.jpg" width="600" height="400">
+ 
+ #### Printing
+ 
+ <img src="https://shaheenhyderk.github.io/IMG_20170821_184232.jpg" width="500" height="400">
+ 
+ <img src="https://shaheenhyderk.github.io/IMG_20170821_184238.jpg" width="500" height="400"> 
+ 
+ #### After print
+ <img src="https://shaheenhyderk.github.io/IMG_20170821_184554.jpg" width="500" height="400">
+ 
+ #### Final view
+ <img src="https://shaheenhyderk.github.io/IMG_20170821_203123.jpg" width="500" height="500"> 
+ 
+ I buy bearing from a nearby shop and fixed it. First it was not spinning well. So I added oil in the bearing. Thus, it was spinning well. I was very happy by seeing this. 
