@@ -25,9 +25,11 @@
  <img src="https://shaheenhyderk.github.io/IMG_20170821_184238.jpg" width="500" height="400"> 
  
  #### After print
+ 
  <img src="https://shaheenhyderk.github.io/IMG_20170821_184554.jpg" width="500" height="400">
  
  #### Final view
+ 
  <img src="https://shaheenhyderk.github.io/IMG_20170821_203123.jpg" width="500" height="500"> 
  
  I buy bearing from a nearby shop and fixed it. First it was not spinning well. So I added oil in the bearing. Thus, it was spinning well. I was very happy by seeing this. 
