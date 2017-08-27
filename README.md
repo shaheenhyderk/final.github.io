@@ -1,4 +1,4 @@
- ## Fidget Spinner
+## Fidget Spinner
  
  I think about a final project. One of the problem I faced was that as Iam just 10th I don't know about drawing electric circuit. Then think about 'fidget spinner' which was having a huge market. 
  
@@ -6,29 +6,29 @@
  
  <img src="https://shaheenhyderk.github.io/sp.jpeg">
  
- #### The design in rhino
+#### The design in rhino
  
  <img src="https://shaheenhyderk.github.io/r.jpg" width="600" height="400">
  
- #### Top view
+#### Top view
  
  <img src="https://shaheenhyderk.github.io/rh.jpg" width="600" height="400">
  
- #### In cura
+#### In cura
  
  <img src="https://shaheenhyderk.github.io/c.jpg" width="600" height="400">
  
- #### Printing
+#### Printing
  
  <img src="https://shaheenhyderk.github.io/IMG_20170821_184232.jpg" width="500" height="400">
  
  <img src="https://shaheenhyderk.github.io/IMG_20170821_184238.jpg" width="500" height="400"> 
  
- #### After print
+#### After print
  
  <img src="https://shaheenhyderk.github.io/IMG_20170821_184554.jpg" width="500" height="400">
  
- #### Final view
+#### Final view
  
  <img src="https://shaheenhyderk.github.io/IMG_20170821_203123.jpg" width="500" height="500"> 
  
@@ -36,6 +36,6 @@
 
 
 
- ## Go To:
+## Go To:
  
  [<img src="http://shaheenhyderk.github.io/ho.png" width="75" height="75">](https://shaheenhyderk.github.io/)
