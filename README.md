@@ -32,7 +32,7 @@
  
  <img src="https://shaheenhyderk.github.io/IMG_20170821_203123.jpg" width="500" height="500"> 
  
- I buy bearing from a nearby shop and fixed it. First it was not spinning well. So I added oil in the bearing. Thus, it was spinning well. I was very happy by seeing this. 
+ I attached bearing to it. Thats all.
 
 
 
